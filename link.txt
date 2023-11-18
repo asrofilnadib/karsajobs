@@ -1,0 +1,7 @@
+Link Images to Github Packages:
+
+Backend:
+https://github.com/users/asrofilnadib/packages/container/package/karsajobs
+
+Frontend:
+https://github.com/users/asrofilnadib/packages/container/package/karsajobs-ui
